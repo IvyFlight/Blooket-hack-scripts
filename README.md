@@ -1,7 +1,7 @@
 # Blooket-hack-scripts
 
 
-A few Blooket hacks (Example: ChestX-ray, TokenHack)
+A few Blooket hacks (Example: ChestX-ray, TokenHack). Might not work...
 
 
 If you account gets banned, or if you get in trouble. It is on you, NOT me.
