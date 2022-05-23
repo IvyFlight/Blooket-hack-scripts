@@ -1,5 +1,7 @@
 # Blooket-hack-scripts
 
+IMPORTANT!!! Booket has installed a code that makes it when you use any of these cheats you can't win, so take note of that!!!
+
 
 A few Blooket hacks (Example: ChestX-ray, TokenHack). But it might not work...
 
