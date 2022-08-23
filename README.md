@@ -2,6 +2,7 @@
 
 IMPORTANT!!! Booket has installed a code that makes it when you use any of these cheats you can't win/use them, so take note of that!!!
 
+UPDATE!!! I have checked the codes and most of them don't work!!!
 
 A few Blooket hacks (Example: ChestX-ray, TokenHack). But it might not work...
 
